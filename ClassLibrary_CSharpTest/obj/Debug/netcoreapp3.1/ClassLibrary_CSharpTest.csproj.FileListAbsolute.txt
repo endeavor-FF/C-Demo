@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\ClassLibrary_CSharpTest\bin\Debug\netcoreapp3.1\ClassLibrary_CSharpTest.deps.json
+C:\Users\Administrator\source\repos\ClassLibrary_CSharpTest\bin\Debug\netcoreapp3.1\ClassLibrary_CSharpTest.dll
+C:\Users\Administrator\source\repos\ClassLibrary_CSharpTest\bin\Debug\netcoreapp3.1\ClassLibrary_CSharpTest.pdb
+C:\Users\Administrator\source\repos\ClassLibrary_CSharpTest\obj\Debug\netcoreapp3.1\ClassLibrary_CSharpTest.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\ClassLibrary_CSharpTest\obj\Debug\netcoreapp3.1\ClassLibrary_CSharpTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\ClassLibrary_CSharpTest\obj\Debug\netcoreapp3.1\ClassLibrary_CSharpTest.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ClassLibrary_CSharpTest\obj\Debug\netcoreapp3.1\ClassLibrary_CSharpTest.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ClassLibrary_CSharpTest\obj\Debug\netcoreapp3.1\ClassLibrary_CSharpTest.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ClassLibrary_CSharpTest\obj\Debug\netcoreapp3.1\ClassLibrary_CSharpTest.dll
+C:\Users\Administrator\source\repos\ClassLibrary_CSharpTest\obj\Debug\netcoreapp3.1\ClassLibrary_CSharpTest.pdb
+C:\Users\Administrator\source\repos\ClassLibrary_CSharpTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Administrator\source\repos\ClassLibrary_CSharpTest\obj\Debug\netcoreapp3.1\ClassLibrary_CSharpTest.csproj.CopyComplete
