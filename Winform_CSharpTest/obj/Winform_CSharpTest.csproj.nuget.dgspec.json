@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\source\\repos\\Winform_CSharpTest\\Winform_CSharpTest.csproj": {}
+    "E:\\日汇报\\Github_my\\C-Demo\\Winform_CSharpTest\\Winform_CSharpTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\source\\repos\\ClassLibrary_CSharpTest\\ClassLibrary_CSharpTest.csproj": {
+    "E:\\日汇报\\Github_my\\C-Demo\\ClassLibrary_CSharpTest\\ClassLibrary_CSharpTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\ClassLibrary_CSharpTest\\ClassLibrary_CSharpTest.csproj",
+        "projectUniqueName": "E:\\日汇报\\Github_my\\C-Demo\\ClassLibrary_CSharpTest\\ClassLibrary_CSharpTest.csproj",
         "projectName": "ClassLibrary_CSharpTest",
-        "projectPath": "C:\\Users\\Administrator\\source\\repos\\ClassLibrary_CSharpTest\\ClassLibrary_CSharpTest.csproj",
+        "projectPath": "E:\\日汇报\\Github_my\\C-Demo\\ClassLibrary_CSharpTest\\ClassLibrary_CSharpTest.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\source\\repos\\ClassLibrary_CSharpTest\\obj\\",
+        "outputPath": "E:\\日汇报\\Github_my\\C-Demo\\ClassLibrary_CSharpTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\Administrator\\source\\repos\\Winform_CSharpTest\\Winform_CSharpTest.csproj": {
+    "E:\\日汇报\\Github_my\\C-Demo\\Winform_CSharpTest\\Winform_CSharpTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\Winform_CSharpTest\\Winform_CSharpTest.csproj",
+        "projectUniqueName": "E:\\日汇报\\Github_my\\C-Demo\\Winform_CSharpTest\\Winform_CSharpTest.csproj",
         "projectName": "Winform_CSharpTest",
-        "projectPath": "C:\\Users\\Administrator\\source\\repos\\Winform_CSharpTest\\Winform_CSharpTest.csproj",
+        "projectPath": "E:\\日汇报\\Github_my\\C-Demo\\Winform_CSharpTest\\Winform_CSharpTest.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\source\\repos\\Winform_CSharpTest\\obj\\",
+        "outputPath": "E:\\日汇报\\Github_my\\C-Demo\\Winform_CSharpTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -90,8 +90,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Administrator\\source\\repos\\ClassLibrary_CSharpTest\\ClassLibrary_CSharpTest.csproj": {
-                "projectPath": "C:\\Users\\Administrator\\source\\repos\\ClassLibrary_CSharpTest\\ClassLibrary_CSharpTest.csproj"
+              "E:\\日汇报\\Github_my\\C-Demo\\ClassLibrary_CSharpTest\\ClassLibrary_CSharpTest.csproj": {
+                "projectPath": "E:\\日汇报\\Github_my\\C-Demo\\ClassLibrary_CSharpTest\\ClassLibrary_CSharpTest.csproj"
               }
             }
           }

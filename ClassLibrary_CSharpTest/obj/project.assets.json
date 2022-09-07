@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\ClassLibrary_CSharpTest\\ClassLibrary_CSharpTest.csproj",
+      "projectUniqueName": "E:\\日汇报\\Github_my\\C-Demo\\ClassLibrary_CSharpTest\\ClassLibrary_CSharpTest.csproj",
       "projectName": "ClassLibrary_CSharpTest",
-      "projectPath": "C:\\Users\\Administrator\\source\\repos\\ClassLibrary_CSharpTest\\ClassLibrary_CSharpTest.csproj",
+      "projectPath": "E:\\日汇报\\Github_my\\C-Demo\\ClassLibrary_CSharpTest\\ClassLibrary_CSharpTest.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\source\\repos\\ClassLibrary_CSharpTest\\obj\\",
+      "outputPath": "E:\\日汇报\\Github_my\\C-Demo\\ClassLibrary_CSharpTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

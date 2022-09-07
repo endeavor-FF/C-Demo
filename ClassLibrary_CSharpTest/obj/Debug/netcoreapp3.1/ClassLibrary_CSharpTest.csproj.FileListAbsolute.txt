@@ -10,3 +10,15 @@ C:\Users\Administrator\source\repos\ClassLibrary_CSharpTest\obj\Debug\netcoreapp
 C:\Users\Administrator\source\repos\ClassLibrary_CSharpTest\obj\Debug\netcoreapp3.1\ClassLibrary_CSharpTest.pdb
 C:\Users\Administrator\source\repos\ClassLibrary_CSharpTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Users\Administrator\source\repos\ClassLibrary_CSharpTest\obj\Debug\netcoreapp3.1\ClassLibrary_CSharpTest.csproj.CopyComplete
+E:\日汇报\Github_my\C-Demo\ClassLibrary_CSharpTest\bin\Debug\netcoreapp3.1\ClassLibrary_CSharpTest.deps.json
+E:\日汇报\Github_my\C-Demo\ClassLibrary_CSharpTest\bin\Debug\netcoreapp3.1\ClassLibrary_CSharpTest.dll
+E:\日汇报\Github_my\C-Demo\ClassLibrary_CSharpTest\bin\Debug\netcoreapp3.1\ClassLibrary_CSharpTest.pdb
+E:\日汇报\Github_my\C-Demo\ClassLibrary_CSharpTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\日汇报\Github_my\C-Demo\ClassLibrary_CSharpTest\obj\Debug\netcoreapp3.1\ClassLibrary_CSharpTest.csproj.AssemblyReference.cache
+E:\日汇报\Github_my\C-Demo\ClassLibrary_CSharpTest\obj\Debug\netcoreapp3.1\ClassLibrary_CSharpTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\日汇报\Github_my\C-Demo\ClassLibrary_CSharpTest\obj\Debug\netcoreapp3.1\ClassLibrary_CSharpTest.AssemblyInfoInputs.cache
+E:\日汇报\Github_my\C-Demo\ClassLibrary_CSharpTest\obj\Debug\netcoreapp3.1\ClassLibrary_CSharpTest.AssemblyInfo.cs
+E:\日汇报\Github_my\C-Demo\ClassLibrary_CSharpTest\obj\Debug\netcoreapp3.1\ClassLibrary_CSharpTest.csproj.CoreCompileInputs.cache
+E:\日汇报\Github_my\C-Demo\ClassLibrary_CSharpTest\obj\Debug\netcoreapp3.1\ClassLibrary_CSharpTest.csproj.CopyComplete
+E:\日汇报\Github_my\C-Demo\ClassLibrary_CSharpTest\obj\Debug\netcoreapp3.1\ClassLibrary_CSharpTest.dll
+E:\日汇报\Github_my\C-Demo\ClassLibrary_CSharpTest\obj\Debug\netcoreapp3.1\ClassLibrary_CSharpTest.pdb
